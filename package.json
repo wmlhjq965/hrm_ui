@@ -14,7 +14,7 @@
     "echarts": "^3.3.2",
     "element-ui": "^2.11.0",
     "font-awesome": "^4.7.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
     "vue": "^2.2.2",
     "vue-baidu-map": "^0.21.22",
